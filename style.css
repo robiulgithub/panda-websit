@@ -1,0 +1,63 @@
+.my-bg-info {
+    background-color: #ffe4e0;
+}
+
+.my-btn-warning {
+    background-color: #ff3081;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 30px;
+
+}
+
+
+.catagories img {
+    width: 100px;
+}
+
+.card img {
+    width: 100px;
+
+}
+
+.socialmedia {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa {
+    width: 50px;
+
+    align-items: center;
+    transition: all .3s linear;
+}
+
+
+
+a:hover {
+    transform: scale(1.4);
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-instagram {
+    color: mediumvioletred;
+
+}
+
+.fa-youtube {
+    color: #c4302b;
+}
+
+.fa-linkedin {
+    color: #0e76a8;
+}
+
+.fa-twitter {
+    color: #00acee;
+}
